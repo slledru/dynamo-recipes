@@ -1,13 +1,11 @@
 # dynamo-recipes
-My Recipe Box in AWS DynamoDB
+## My Recipe Box in AWS DynamoDB
 
 Create Table<br>
 ```
 aws dynamodb create-table --table-name myRecipes \
   --attribute-definitions AttributeName=recipe_name,AttributeType=S \
-  AttributeName=category,AttributeType=S AttributeName=steps,AttributeType=M \
-  AttributeName=ingredients,AttributeType=M --key-schema \
-  AttributeName=recipe_name,KeyType=HASH \
+  --key-schema AttributeName=recipe_name,KeyType=HASH \
   --provisioned-throughput ReadCapacityUnits=1,WriteCapacityUnits=1
 ```
 
