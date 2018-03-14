@@ -1,0 +1,61 @@
+{
+  "recipe_name": {
+    "S": "sourdough pizza"
+  },
+  "category": {
+    "SS": [ "bread" ]
+  },
+  "ingredients": {
+    "M": {
+      "bread flour": {
+        "S": "3 cups"
+      },
+      "salt": {
+        "S": "1 tsp"
+      },
+      "sugar": {
+        "S": "1 tbsp"
+      },
+      "sourdough starter": {
+        "S": "1 cup"
+      },
+      "olive oil": {
+        "S": "1/4 cup"
+      },
+      "water": {
+        "S": "3/4 cup"
+      }
+    }
+  },
+  "steps": {
+    "M": {
+      "step 1": {
+        "S": "In a mixing bowl, combine flour(s), salt, sugar, sourdough starter, olive oil and water. Mix with a wooden spoon until loosely combined, then tip onto a clean, dry surface and knead vigorously for 5 minutes until you have a smooth ball of elastic dough."
+      },
+      "step 2": {
+        "S": "Lightly oil the mixing bowl and place the dough in it. Cover with aluminum foil or place in a plastic bag and let rise overnight. Once it is doubled in volume, transfer to a fridge to stop over-proofing."
+      },
+      "step 3": {
+        "S": "When you are ready to bake the breads, preheat oven to the highest setting (500F)."
+      },
+      "step 4": {
+        "S": "Divide dough into 8 equal portions (use kitchen scales to weight the eight lumps of dough, ensuring they all weigh more or less the same). If you have a pizza stone, preheat it now. If not, preheat a thick baking sheet."
+      },
+      "step 5": {
+        "S": "Lightly dust the work surface with flour and roll two of the balls into an oval shape, not too thin, not too thick. Leave them to rest for a few mins while the oven heats up."
+      },
+      "step 6": {
+        "S": "When the oven is piping hot, place a couple of breads onto the pizza stone/baking sheet as quickly as you can so as not to let too much heat out of the oven."
+      },
+      "step 7": {
+        "S": "Bake for about three to five minutes each, until they have puffed up like a pillow and are barely colored – just a shade of brown at the edge, perhaps."
+      },
+      "step 8": {
+        "S": "When they are done, lift out with tongs and place on a wire rack to cool. Continue until you have used up all the dough balls."
+      },
+      "step 9": {
+        "S": "You may be able to bake more than two at once, depending on the size of your pizza stone/tray/oven."
+      }
+    }
+  }
+}
