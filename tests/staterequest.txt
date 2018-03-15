@@ -1,0 +1,6 @@
+LaunchRequest
+ListRecipes recipeType=bread
+# AMAZON.HelpIntent
+
+# FindRecipe breadType=sourdough pizza
+AMAZON.StopIntent
